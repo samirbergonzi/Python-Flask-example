@@ -1,6 +1,6 @@
 # Flask Web App Example
 
-![Flask Logo](flask-logo.png)
+![Flask Logo](python_flask.JPG)
 
 ## Description
 
@@ -19,10 +19,6 @@ This is a simple example of a web application built with Flask, a micro web fram
 4. Open a web browser and go to [http://localhost:5000](http://localhost:5000) to view the application.
 
 Feel free to explore, modify, and expand the code to suit your project needs!
-
-## Screenshots
-
-![Web App](screenshot.png)
 
 ## License
 
